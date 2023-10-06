@@ -1,0 +1,47 @@
+
+body, ul{
+    background-color: #81c4ff;
+    
+   
+}
+h1{
+    color: red;
+    text-align: center;
+    
+}
+p {
+    color: #16588e;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    background-color: red;
+    
+}
+h2 {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+
+ul{
+    color: #81c4ff
+}
+
+ul{ background-color: #16588e}
+
+h3{
+    background-color: red;
+    color : #16588e;
+    text-align: center;
+}
+
+table{
+background-color: #16588e;
+    color : red;
+}
+
+a{
+    color: white;
+    text-align: center;
+}
+
